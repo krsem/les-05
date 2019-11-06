@@ -1,0 +1,77 @@
+html, body{
+    margin:0;
+    padding:0;
+}
+main{
+    background:black;
+    width:600px;
+    height:400px;
+    display: block;
+}
+
+.block-01{
+    background:white;
+    width:200px;
+    height:232px;
+    float:left;
+}
+
+.block-02{
+    background:white;
+    width:244px;
+    height: 163px;
+    margin-left: 8px;
+    float: left;
+}
+
+.block-03{
+    background:blue;
+    width:140px;
+    height: 163px;
+    margin-left: 8px;
+    float: left;
+}
+
+.block-04 {
+    background: red;
+    width: 184px;
+    height: 229px;
+    margin-left: 8px;
+    margin-top: 8px;
+    float: left;
+}
+.block-05{
+    background: white;
+    width: 200px;
+    height: 229px;
+    margin-left: 8px;
+    margin-top: 8px;
+    float: left;
+}
+
+.block-06 {
+    background: yellow;
+    width: 200px;
+    height: 162px;
+    margin-left: 0px;
+    margin-top: -162px;
+    float: left;
+}
+
+.block-07{
+    background: white;
+    width: 53px;
+    height: 162px;
+    margin-left: 148px;
+    margin-top: -162px;
+    float: left;
+}
+
+.block-08{
+    background: white;
+    width: 184px;
+    height: 82px;
+    margin-left: 208px;
+    margin-top: -82px;
+    float: left;
+}
